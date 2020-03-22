@@ -1,0 +1,16 @@
+Gold color: #C29848
+Old brown: #F4BC16
+
+Blue: #313B55
+
+
+display: block;
+    background: #F5F5F5;
+    padding: 18px 18px 18px 19px;
+    font-family: 'Ubuntu Condensed';
+    font-size: 18px;
+    line-height: 24px;
+    color: #000;
+}
+
+
